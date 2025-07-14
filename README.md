@@ -74,6 +74,8 @@ This dashboard includes the following views:
 - Report refresh date and metadata
 - Quick guide/manual for new users
 
+![](https://github.com/LohithAnalyst/Business_Data_Analytic_PowerBI/blob/a14e65de1511fca1b4ab1625e5f9863614cdef10/Dashboard_Overview_Snapshot/Screenshot%202025-07-14%20221147.png)
+
 ---
 
 ### 💰 Finance View
@@ -86,6 +88,8 @@ This dashboard includes the following views:
   - Net Sales, Gross Margin %, Net Profit %
   - Comparison vs Benchmark (BM), Last Year (LY), and Targets
 
+![](https://github.com/LohithAnalyst/Business_Data_Analytic_PowerBI/blob/a14e65de1511fca1b4ab1625e5f9863614cdef10/Dashboard_Overview_Snapshot/Screenshot%202025-07-14%20221201.png)
+
 ---
 
 ### 📈 Sales View
@@ -93,6 +97,8 @@ This dashboard includes the following views:
 - Profitability Matrix
 - Unit Economics (Cost vs Margin)
 - GM% and Net Sales visualization by region/segment
+
+![](https://github.com/LohithAnalyst/Business_Data_Analytic_PowerBI/blob/a14e65de1511fca1b4ab1625e5f9863614cdef10/Dashboard_Overview_Snapshot/Screenshot%202025-07-14%20221218.png)
 
 ---
 
@@ -102,12 +108,16 @@ This dashboard includes the following views:
 - Competitor comparison: PC Market Share Trends
 - Top products & customers by revenue
 
+![](https://github.com/LohithAnalyst/Business_Data_Analytic_PowerBI/blob/a14e65de1511fca1b4ab1625e5f9863614cdef10/Dashboard_Overview_Snapshot/Screenshot%202025-07-14%20221237.png)
+
 ---
 
 ### 🚛 Supply Chain View
 - Forecast Accuracy, Net Error, and Absolute Error
 - Customer & Product-level forecast analysis
 - Risk classification: Out of Stock (OOS), Excess Inventory (EI)
+
+![](https://github.com/LohithAnalyst/Business_Data_Analytic_PowerBI/blob/a14e65de1511fca1b4ab1625e5f9863614cdef10/Dashboard_Overview_Snapshot/Screenshot%202025-07-14%20221248.png)
 
 ---
 
@@ -116,6 +126,8 @@ This dashboard includes the following views:
 - Sub-zone and division-wise business summaries
 - Year-over-Year revenue & profit trends
 - High-level insights for leadership teams
+
+![](https://github.com/LohithAnalyst/Business_Data_Analytic_PowerBI/blob/a14e65de1511fca1b4ab1625e5f9863614cdef10/Dashboard_Overview_Snapshot/Screenshot%202025-07-14%20221339.png)
 
 ---
 
