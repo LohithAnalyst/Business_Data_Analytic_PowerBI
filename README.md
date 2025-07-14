@@ -6,6 +6,10 @@ This repository documents the end-to-end business intelligence solution built us
 
 ---
 
+## For interactive Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiMTBhMDlhZGYtMDdlYS00YWRkLWI1ZDQtMWMzYWNkNDA3OGM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## 🧠 Problem Statement
 
 AtliQ Hardware, a fast-growing electronics company, uses Excel files to handle its data analytics. However, Excel's limitations in handling large datasets and generating timely insights have negatively impacted business performance. A recent significant loss in Latin America highlighted the urgent need for a more scalable and insightful analytics solution.
