@@ -5,10 +5,13 @@ This project is a part of a real-world analytics work in a fictional consumer el
 This repository documents the end-to-end business intelligence solution built using **Power BI**, **SQL**, and **Excel**, aiming to improve the company’s decision-making capabilities and reporting infrastructure.
 
 ---
+## 🌐 Interactive Dashboard
 
-## For interactive Dashboard
+You can explore the full interactive Power BI report here:  
+👉 [**Click to View Business Insight 360 Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTBhMDlhZGYtMDdlYS00YWRkLWI1ZDQtMWMzYWNkNDA3OGM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-https://app.powerbi.com/view?r=eyJrIjoiMTBhMDlhZGYtMDdlYS00YWRkLWI1ZDQtMWMzYWNkNDA3OGM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+> _Note: You may need to sign in with a Microsoft account to view the report if it's hosted on Power BI Service._
+
 
 ## 🧠 Problem Statement
 
@@ -60,6 +63,83 @@ Understanding the business side of data analytics was key to this project. Below
 - **YTG** – Year to Go
 
 ---
+
+
+## 📊 Dashboard Overview – Business Insight 360
+
+This dashboard includes the following views:
+
+### 🏠 Home Page (Info)
+- Central navigation hub
+- Report refresh date and metadata
+- Quick guide/manual for new users
+
+---
+
+### 💰 Finance View
+- Profit & Loss (P&L) Statement by:
+  - Customer
+  - Country
+  - Product
+  - Time Period
+- Key Metrics:
+  - Net Sales, Gross Margin %, Net Profit %
+  - Comparison vs Benchmark (BM), Last Year (LY), and Targets
+
+---
+
+### 📈 Sales View
+- Customer & Product Performance
+- Profitability Matrix
+- Unit Economics (Cost vs Margin)
+- GM% and Net Sales visualization by region/segment
+
+---
+
+### 📣 Marketing View
+- Segment-wise performance (GM%, Net Profit %)
+- Revenue contribution by division/channel
+- Competitor comparison: PC Market Share Trends
+- Top products & customers by revenue
+
+---
+
+### 🚛 Supply Chain View
+- Forecast Accuracy, Net Error, and Absolute Error
+- Customer & Product-level forecast analysis
+- Risk classification: Out of Stock (OOS), Excess Inventory (EI)
+
+---
+
+### 🧭 Executive View
+- Consolidated KPIs across all functions
+- Sub-zone and division-wise business summaries
+- Year-over-Year revenue & profit trends
+- High-level insights for leadership teams
+
+---
+
+### 🛠️ Support View
+- Contact information for technical assistance
+- FAQs and troubleshooting guides
+
+---
+
+## 📅 Report Details
+
+- **Report Refresh Date:** 11 June 2025  
+- **Sales Data Loaded Until:** December 2021  
+- **Currency:** Dollars ($)  
+- **Values Displayed In:** Millions  
+
+---
+
+## 📌 Conclusion
+
+This Power BI solution provides AtliQ Hardware with a centralized, automated, and scalable way to analyze business performance, uncover trends, and support strategic decision-making across departments.
+
+It helped demonstrate the power of BI in transforming a reactive company into a **data-driven organization**.
+
 
 ## 📬 Contact
 Created by *Lohith*  
