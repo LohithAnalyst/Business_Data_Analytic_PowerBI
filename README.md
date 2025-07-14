@@ -5,12 +5,6 @@ This project is a part of a real-world analytics work in a fictional consumer el
 This repository documents the end-to-end business intelligence solution built using **Power BI**, **SQL**, and **Excel**, aiming to improve the company’s decision-making capabilities and reporting infrastructure.
 
 ---
-## 🌐 Interactive Dashboard
-
-You can explore the full interactive Power BI report here:  
-👉 [**Click to View Business Insight 360 Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTBhMDlhZGYtMDdlYS00YWRkLWI1ZDQtMWMzYWNkNDA3OGM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-> _Note: You may need to sign in with a Microsoft account to view the report if it's hosted on Power BI Service._
 
 
 ## 🧠 Problem Statement
@@ -21,6 +15,15 @@ This project addresses those gaps by building a robust Power BI dashboard suppor
 
 ---
 
+
+## 🌐 Interactive Dashboard
+
+You can explore the full interactive Power BI report here:  
+👉 [**Click to View Business Insight 360 Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTBhMDlhZGYtMDdlYS00YWRkLWI1ZDQtMWMzYWNkNDA3OGM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+> _Note: You may need to sign in with a Microsoft account to view the report if it's hosted on Power BI Service._
+
+---
 ## 💻 Tech Stack Learned & Used
 
 - **SQL**
